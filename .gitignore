@@ -309,7 +309,7 @@ input
 output
 
 # Advent of Code source code
-advent_of_code/
+advent-of-code/
 code_by_others/
 
 # p00f/cphelper.nvim
