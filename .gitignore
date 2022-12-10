@@ -300,3 +300,19 @@ poetry.toml
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij+iml,visualstudiocode,python
+
+
+!topcoder/*.jar
+
+# Temporary Input/Output Files
+input
+output
+
+# Advent of Code source code
+advent_of_code/
+code_by_others/
+
+# p00f/cphelper.nvim
+cphelper.nvim
+
+.Trash-1000/
